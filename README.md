@@ -1,14 +1,7 @@
-### Hi there 👋
+### cout << "Hello World!" 
 
-<!--
-**FerniCuesta/FerniCuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying Computer Engineering at Universidad de Granada (UGR)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently studying Computer Engineering at University of Granada
+- 🌱 I’m currently learning python & kotlin
+- 👯 I’m looking for some enterprise to start my professional life
 - 📫 How to reach me: fernandocuestab@gmail.com
-
--->
+- [Latest CV](https://drive.google.com/drive/folders/1hKod-hj0KKf7K0iH2A1HfRtg5UNOZC9E)
