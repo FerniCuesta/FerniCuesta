@@ -1,7 +1,7 @@
 ### print("Hello World!") 
 
 - 🔭 Studying Computer Engineering at University of Granada, Spain 🇪🇸
-- 🌎 Currently Erasmus at RWTH Aachen, Germany 🇩🇪
+- 🌍 Currently Erasmus at RWTH Aachen, Germany 🇩🇪
 - 🌱 Learning python and web development
 - 👨‍💻 Looking for my first IT working experience
 - 📫 How to reach me: fernandocuestab@gmail.com
